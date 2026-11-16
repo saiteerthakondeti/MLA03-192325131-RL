@@ -4,8 +4,8 @@
 Design, Implement and Evaluate an Intelligent Reinforcement Learning Agent for Adaptive Smart Traffic Signal Management.
 
 ## Student Details
-- Name: [Your Name]
-- Register Number: [Your Register Number]
+- Name: [KONDETI SAI TEERTHA]
+- Register Number: [192325131]
 - Course: MLA03 – Reinforcement Learning
 - Assignment: 1
 
